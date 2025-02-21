@@ -1,5 +1,5 @@
 # triangulararbitrage
-Triangular Arabitrage on Binance API
+Triangular Arbitrage on Binance API
 
 **0. Triangular Arbitrage**
 ```python
