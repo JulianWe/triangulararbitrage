@@ -1,4 +1,4 @@
-# triangulararbitrage
+# triangularbitrage
 Triangular Arbitrage on Binance API
 
 **0. Triangular Arbitrage**
